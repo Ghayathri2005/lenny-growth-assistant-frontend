@@ -111,27 +111,10 @@ VITE_API_URL=http://localhost:5000
 
 ## Home Page
 
-![Home](screenshots/home.png)
-
----
+<img width="1917" height="885" alt="image" src="https://github.com/user-attachments/assets/98c04191-0bb7-4983-a8e9-faeb168beac0" />
 
 ## Chat Interface
-
-![Chat](screenshots/chat.png)
-
----
-
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Mobile View
-
-![Mobile](screenshots/mobile.png)
-
----
+<img width="420" height="541" alt="image" src="https://github.com/user-attachments/assets/96218743-6595-474c-935c-845fb42676af" />
 
 # 🎯 Future Improvements
 
@@ -169,5 +152,3 @@ B.Tech Information Technology
 
 Coimbatore Institute of Technology
 
-GitHub: https://github.com/yourusernamel/UX rationale (palette, type, and the reasoning behind the transcript-
-style message layout).
